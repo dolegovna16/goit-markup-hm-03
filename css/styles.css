@@ -48,7 +48,7 @@ a {
 .header{
         border-bottom: 1px solid #e7e9fc;
 }
-.header-nav{
+.header-nav-class{
     display: flex;
     align-items: center;
     margin-right: auto; /* Це відштовхує контакти вправо */
