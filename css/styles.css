@@ -29,7 +29,9 @@ a {
   img{
     display: block;
   }
-
+.page-header{
+    border-bottom: 1px solid #e7e9fc;
+}
 .container{
     max-width: 1158px;
     padding: 0 15px;
@@ -42,9 +44,7 @@ a {
     margin-right: auto; /* Це відштовхує контакти вправо */
     
 }
-.page-header{
-    border-bottom: 1px solid #e7e9fc;
-}
+
 /*  Roboto */
 strong {
     font-family: 'Roboto', sans-serif;
