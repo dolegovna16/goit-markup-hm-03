@@ -45,10 +45,10 @@ a {
     padding: 0 15px;
     margin: 0 auto;
 }
-.header{
-        border-bottom: 1px solid #e7e9fc;
+.page-header{
+    border-bottom: 1px solid #e7e9fc;
 }
-.header-nav-class{
+.header-nav{
     display: flex;
     align-items: center;
     margin-right: auto; /* Це відштовхує контакти вправо */
